@@ -8,8 +8,7 @@ Blender add-on to copy UV layout directly to clipboard
 
 # Use
 - Go to UV Editing tab
-- In the UV image editor, select the meshes and/or faces you want to export
-- UV > Copy UV Layout to clipboard
+- UV > Copy UV Layout to clipboard (that will include all of the faces that are currently visible in the UV image editor)
 - Set the resolution if necessary in the bottom left popup
 - The layout is now in the clipboard. Paste in your image editing software
 
